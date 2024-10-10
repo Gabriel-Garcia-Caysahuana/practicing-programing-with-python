@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "${workspaceFolder:practicing_programing_with_python}/resolution_exercise_11_4_5/db.db",
+      "name": "gabrielgc"
+    }
+  ]
+}
