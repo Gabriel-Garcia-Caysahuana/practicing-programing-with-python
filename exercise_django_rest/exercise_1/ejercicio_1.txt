@@ -1,0 +1,14 @@
+Ejercicio 1: Crear una API de Listado de Libros
+
+Objetivo: Configurar un endpoint básico para listar libros.
+
+Instrucciones:
+- Crea un modelo Book con campos como title, author, published_date, y isbn.
+- Configura un serializer para este modelo.
+- Crea un ViewSet que permita listar todos los libros en una base de datos.
+- Agrega una ruta al urls.py usando DefaultRouter.
+
+Resultados esperados: Al acceder al endpoint /books/, deberías ver una lista JSON con los libros almacenados.
+
+Superusuario: admin
+clave: asdfgf123
